@@ -1,0 +1,4 @@
+name=str(input("enter employe name"))
+salary=int(input("enter salary"))
+print(f"empoye {name} and monthly salary {salary}")
+print("annual salary", salary*12)
