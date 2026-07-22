@@ -1,0 +1,8 @@
+name="Shankar"
+age=19
+salary=5000
+city="ghaziabad"
+print(name)
+print(age)
+print(city)
+print(salary)
