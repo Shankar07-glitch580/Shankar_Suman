@@ -1,0 +1,13 @@
+
+a=10
+b=20.5
+c=a+b
+print(c)
+print("data type of c",type(c))#here the type of int and float no type automatic promote to float.
+co=25+26j
+sum=a+co
+print(sum)
+print("data type of sum",type(sum))
+sum2=b+co
+print(sum2)
+print("data type of sum2",type(sum2))
