@@ -1,0 +1,8 @@
+a=245
+b=37
+c=-128.75
+print("Calculate A² using pow() is :",pow(a,2))
+print("absolute value of c is:",abs(c))
+print("maximum  among A, B, and abs(C) is :",max(a,b,c))
+print("minimum among A, B, and abs(C) is :",min(a,b,abs(c)))
+print("average of all three numbers is:",(a+b+c/3))
