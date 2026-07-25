@@ -1,0 +1,7 @@
+
+num=int(input("enter the value of num:"))
+floatnum=float(num)
+complexnum=complex(num)
+print("integer:",num)
+print("float:",floatnum)
+print("complex:",complexnum)
