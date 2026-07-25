@@ -1,0 +1,17 @@
+
+a=int(input("enter the value of a"))
+b=int(input("enter the value of b"))
+sum=a+b
+print("addition of two no is:",sum)
+subtraction=a-b
+print("subtraction of two no is:",subtraction)
+multiply=a*b
+print("multiply of two no is:",multiply)
+division=a/b
+print("division of two no is:",division)
+floor_division=a//b
+print("floor_division of two no is:",floor_division)
+modulas=a%b
+print("modulas of two no is:",modulas)
+exponentiation=a**b
+print("exponentiation of two no is:",exponentiation)
