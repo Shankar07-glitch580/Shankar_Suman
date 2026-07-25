@@ -1,0 +1,6 @@
+num1=25+26j
+num2=complex(30,35)
+print("by a+bj notation:",num1)
+print("by the complex() function:",num2)
+print(num1.real)
+print(num1.imag)
